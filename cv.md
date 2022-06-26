@@ -13,3 +13,10 @@ My goals for learning to code in 2022:
 - I want to know responsive web design, javascript and one of the frameworks
 - I want to know how the backend works
 - Know how to use tools (NPM, Webpack, Chrome DevTools, git, ...)
+
+## Skills
+- HTML
+- CSS
+- JavaScript (Basic)
+- Git
+- Chrome DevTools
